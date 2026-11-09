@@ -3,3 +3,5 @@ obj/
 .vs/
 *.user
 *.suo
+config.bat
+node_modules
